@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example003Week\obj\Debug\net6.0\Example003Week.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example003Week\obj\Debug\net6.0\Example003Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example003Week\obj\Debug\net6.0\Example003Week.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example003Week\obj\Debug\net6.0\Example003Week.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example003Week\obj\Debug\net6.0\Example003Week.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example003Week\bin\Debug\net6.0\Example003Week.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example003Week\bin\Debug\net6.0\Example003Week.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example003Week\bin\Debug\net6.0\Example003Week.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example003Week\bin\Debug\net6.0\Example003Week.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example003Week\bin\Debug\net6.0\Example003Week.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example003Week\obj\Debug\net6.0\Example003Week.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example003Week\obj\Debug\net6.0\refint\Example003Week.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example003Week\obj\Debug\net6.0\Example003Week.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example003Week\obj\Debug\net6.0\Example003Week.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example003Week\obj\Debug\net6.0\ref\Example003Week.dll
