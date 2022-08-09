@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example004MinMax\bin\Debug\net6.0\Example004MinMax.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example004MinMax\bin\Debug\net6.0\Example004MinMax.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example004MinMax\bin\Debug\net6.0\Example004MinMax.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example004MinMax\bin\Debug\net6.0\Example004MinMax.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example004MinMax\bin\Debug\net6.0\Example004MinMax.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example004MinMax\obj\Debug\net6.0\Example004MinMax.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example004MinMax\obj\Debug\net6.0\Example004MinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example004MinMax\obj\Debug\net6.0\Example004MinMax.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example004MinMax\obj\Debug\net6.0\Example004MinMax.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example004MinMax\obj\Debug\net6.0\Example004MinMax.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example004MinMax\obj\Debug\net6.0\Example004MinMax.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example004MinMax\obj\Debug\net6.0\refint\Example004MinMax.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example004MinMax\obj\Debug\net6.0\Example004MinMax.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example004MinMax\obj\Debug\net6.0\Example004MinMax.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example004MinMax\obj\Debug\net6.0\ref\Example004MinMax.dll
