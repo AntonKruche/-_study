@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example009SquareCheck\obj\Debug\net6.0\Example009SquareCheck.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example009SquareCheck\obj\Debug\net6.0\Example009SquareCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example009SquareCheck\obj\Debug\net6.0\Example009SquareCheck.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example009SquareCheck\obj\Debug\net6.0\Example009SquareCheck.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example009SquareCheck\obj\Debug\net6.0\Example009SquareCheck.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example009SquareCheck\bin\Debug\net6.0\Example009SquareCheck.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example009SquareCheck\bin\Debug\net6.0\Example009SquareCheck.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example009SquareCheck\bin\Debug\net6.0\Example009SquareCheck.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example009SquareCheck\bin\Debug\net6.0\Example009SquareCheck.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example009SquareCheck\bin\Debug\net6.0\Example009SquareCheck.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example009SquareCheck\obj\Debug\net6.0\Example009SquareCheck.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example009SquareCheck\obj\Debug\net6.0\refint\Example009SquareCheck.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example009SquareCheck\obj\Debug\net6.0\Example009SquareCheck.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example009SquareCheck\obj\Debug\net6.0\Example009SquareCheck.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example009SquareCheck\obj\Debug\net6.0\ref\Example009SquareCheck.dll
