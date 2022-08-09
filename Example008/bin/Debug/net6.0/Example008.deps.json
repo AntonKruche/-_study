@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "example007/1.0.0": {
+      "Example008/1.0.0": {
         "runtime": {
-          "example007.dll": {}
+          "Example008.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "example007/1.0.0": {
+    "Example008/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
