@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example005MaxOf3Numbers\obj\Debug\net6.0\Example005MaxOf3Numbers.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example005MaxOf3Numbers\obj\Debug\net6.0\Example005MaxOf3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example005MaxOf3Numbers\obj\Debug\net6.0\Example005MaxOf3Numbers.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example005MaxOf3Numbers\obj\Debug\net6.0\Example005MaxOf3Numbers.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example005MaxOf3Numbers\obj\Debug\net6.0\Example005MaxOf3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example005MaxOf3Numbers\bin\Debug\net6.0\Example005MaxOf3Numbers.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example005MaxOf3Numbers\bin\Debug\net6.0\Example005MaxOf3Numbers.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example005MaxOf3Numbers\bin\Debug\net6.0\Example005MaxOf3Numbers.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example005MaxOf3Numbers\bin\Debug\net6.0\Example005MaxOf3Numbers.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example005MaxOf3Numbers\bin\Debug\net6.0\Example005MaxOf3Numbers.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example005MaxOf3Numbers\obj\Debug\net6.0\Example005MaxOf3Numbers.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example005MaxOf3Numbers\obj\Debug\net6.0\refint\Example005MaxOf3Numbers.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example005MaxOf3Numbers\obj\Debug\net6.0\Example005MaxOf3Numbers.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example005MaxOf3Numbers\obj\Debug\net6.0\Example005MaxOf3Numbers.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example005MaxOf3Numbers\obj\Debug\net6.0\ref\Example005MaxOf3Numbers.dll
