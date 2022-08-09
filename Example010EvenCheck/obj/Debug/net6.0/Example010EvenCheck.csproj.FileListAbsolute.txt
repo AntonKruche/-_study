@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example010EvenCheck\obj\Debug\net6.0\Example010EvenCheck.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example010EvenCheck\obj\Debug\net6.0\Example010EvenCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example010EvenCheck\obj\Debug\net6.0\Example010EvenCheck.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example010EvenCheck\obj\Debug\net6.0\Example010EvenCheck.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example010EvenCheck\obj\Debug\net6.0\Example010EvenCheck.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example010EvenCheck\bin\Debug\net6.0\Example010EvenCheck.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example010EvenCheck\bin\Debug\net6.0\Example010EvenCheck.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example010EvenCheck\bin\Debug\net6.0\Example010EvenCheck.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example010EvenCheck\bin\Debug\net6.0\Example010EvenCheck.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example010EvenCheck\bin\Debug\net6.0\Example010EvenCheck.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example010EvenCheck\obj\Debug\net6.0\Example010EvenCheck.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example010EvenCheck\obj\Debug\net6.0\refint\Example010EvenCheck.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example010EvenCheck\obj\Debug\net6.0\Example010EvenCheck.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example010EvenCheck\obj\Debug\net6.0\Example010EvenCheck.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example010EvenCheck\obj\Debug\net6.0\ref\Example010EvenCheck.dll
