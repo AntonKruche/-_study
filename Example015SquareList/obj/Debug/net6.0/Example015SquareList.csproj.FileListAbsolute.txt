@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example015SquareList\obj\Debug\net6.0\Example015SquareList.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example015SquareList\obj\Debug\net6.0\Example015SquareList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example015SquareList\obj\Debug\net6.0\Example015SquareList.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example015SquareList\obj\Debug\net6.0\Example015SquareList.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example015SquareList\obj\Debug\net6.0\Example015SquareList.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example015SquareList\bin\Debug\net6.0\Example015SquareList.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example015SquareList\bin\Debug\net6.0\Example015SquareList.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example015SquareList\bin\Debug\net6.0\Example015SquareList.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example015SquareList\bin\Debug\net6.0\Example015SquareList.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example015SquareList\bin\Debug\net6.0\Example015SquareList.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example015SquareList\obj\Debug\net6.0\Example015SquareList.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example015SquareList\obj\Debug\net6.0\refint\Example015SquareList.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example015SquareList\obj\Debug\net6.0\Example015SquareList.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example015SquareList\obj\Debug\net6.0\Example015SquareList.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example015SquareList\obj\Debug\net6.0\ref\Example015SquareList.dll

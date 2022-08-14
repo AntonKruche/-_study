@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Example015SquareList/1.0.0": {
+        "runtime": {
+          "Example015SquareList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example015SquareList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
