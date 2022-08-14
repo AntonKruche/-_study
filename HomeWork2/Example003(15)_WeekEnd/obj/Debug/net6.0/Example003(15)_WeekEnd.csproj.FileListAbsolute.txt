@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example003(15)_WeekEnd\bin\Debug\net6.0\Example003(15)_WeekEnd.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example003(15)_WeekEnd\bin\Debug\net6.0\Example003(15)_WeekEnd.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example003(15)_WeekEnd\bin\Debug\net6.0\Example003(15)_WeekEnd.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example003(15)_WeekEnd\bin\Debug\net6.0\Example003(15)_WeekEnd.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example003(15)_WeekEnd\bin\Debug\net6.0\Example003(15)_WeekEnd.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example003(15)_WeekEnd\obj\Debug\net6.0\Example003(15)_WeekEnd.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example003(15)_WeekEnd\obj\Debug\net6.0\Example003(15)_WeekEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example003(15)_WeekEnd\obj\Debug\net6.0\Example003(15)_WeekEnd.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example003(15)_WeekEnd\obj\Debug\net6.0\Example003(15)_WeekEnd.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example003(15)_WeekEnd\obj\Debug\net6.0\Example003(15)_WeekEnd.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example003(15)_WeekEnd\obj\Debug\net6.0\Example003(15)_WeekEnd.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example003(15)_WeekEnd\obj\Debug\net6.0\refint\Example003(15)_WeekEnd.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example003(15)_WeekEnd\obj\Debug\net6.0\Example003(15)_WeekEnd.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example003(15)_WeekEnd\obj\Debug\net6.0\Example003(15)_WeekEnd.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example003(15)_WeekEnd\obj\Debug\net6.0\ref\Example003(15)_WeekEnd.dll
