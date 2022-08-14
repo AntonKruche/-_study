@@ -11,7 +11,7 @@ switch(quarter){
         Console.Write($"В четверти {quarter} возможны значения X < 0 и Y < 0");
         break;
     case 4:
-        Console.Write($"В четверти {quarter} возможны значения X < 0 и Y < 0");
+        Console.Write($"В четверти {quarter} возможны значения X < 0 и Y > 0");
         break;
     default:
         Console.Write("Введённое число выходит за рамки [1;4]");
