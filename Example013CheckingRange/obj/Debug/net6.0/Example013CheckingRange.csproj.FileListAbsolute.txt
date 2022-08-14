@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example013CheckingRange\obj\Debug\net6.0\Example013CheckingRange.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example013CheckingRange\obj\Debug\net6.0\Example013CheckingRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example013CheckingRange\obj\Debug\net6.0\Example013CheckingRange.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example013CheckingRange\obj\Debug\net6.0\Example013CheckingRange.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example013CheckingRange\obj\Debug\net6.0\Example013CheckingRange.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example013CheckingRange\bin\Debug\net6.0\Example013CheckingRange.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example013CheckingRange\bin\Debug\net6.0\Example013CheckingRange.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example013CheckingRange\bin\Debug\net6.0\Example013CheckingRange.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example013CheckingRange\bin\Debug\net6.0\Example013CheckingRange.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example013CheckingRange\bin\Debug\net6.0\Example013CheckingRange.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example013CheckingRange\obj\Debug\net6.0\Example013CheckingRange.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example013CheckingRange\obj\Debug\net6.0\refint\Example013CheckingRange.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example013CheckingRange\obj\Debug\net6.0\Example013CheckingRange.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example013CheckingRange\obj\Debug\net6.0\Example013CheckingRange.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example013CheckingRange\obj\Debug\net6.0\ref\Example013CheckingRange.dll
