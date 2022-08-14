@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example021Distance3D\obj\Debug\net6.0\Example021Distance3D.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example021Distance3D\obj\Debug\net6.0\Example021Distance3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example021Distance3D\obj\Debug\net6.0\Example021Distance3D.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example021Distance3D\obj\Debug\net6.0\Example021Distance3D.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example021Distance3D\obj\Debug\net6.0\Example021Distance3D.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example021Distance3D\bin\Debug\net6.0\Example021Distance3D.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example021Distance3D\bin\Debug\net6.0\Example021Distance3D.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example021Distance3D\bin\Debug\net6.0\Example021Distance3D.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example021Distance3D\bin\Debug\net6.0\Example021Distance3D.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example021Distance3D\bin\Debug\net6.0\Example021Distance3D.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example021Distance3D\obj\Debug\net6.0\Example021Distance3D.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example021Distance3D\obj\Debug\net6.0\refint\Example021Distance3D.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example021Distance3D\obj\Debug\net6.0\Example021Distance3D.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example021Distance3D\obj\Debug\net6.0\Example021Distance3D.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example021Distance3D\obj\Debug\net6.0\ref\Example021Distance3D.dll

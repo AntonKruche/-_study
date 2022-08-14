@@ -1,0 +1,14 @@
+﻿Console.Write("Введите координату Х первой точки: ");
+int Xcoord1 = int.Parse(Console.ReadLine());
+Console.Write("Введите координату Y первой точки: ");
+int Ycoord1 = int.Parse(Console.ReadLine());
+Console.Write("Введите координату Z первой точки: ");
+int Zcoord1 = int.Parse(Console.ReadLine());
+Console.Write("Введите координату Х второй точки: ");
+int Xcoord2 = int.Parse(Console.ReadLine());
+Console.Write("Введите координату Y второй точки: ");
+int Ycoord2 = int.Parse(Console.ReadLine());
+Console.Write("Введите координату Z второй точки: ");
+int Zcoord2 = int.Parse(Console.ReadLine());
+double distance = Math.Sqrt(Math.Pow(Xcoord1-Xcoord2, 2) + Math.Pow(Ycoord1-Ycoord2,2) + Math.Pow(Zcoord1 - Zcoord2,2));
+Console.Write(distance);

@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example019PolyCheck\bin\Debug\net6.0\Example019PolyCheck.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example019PolyCheck\bin\Debug\net6.0\Example019PolyCheck.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example019PolyCheck\bin\Debug\net6.0\Example019PolyCheck.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example019PolyCheck\bin\Debug\net6.0\Example019PolyCheck.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example019PolyCheck\bin\Debug\net6.0\Example019PolyCheck.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example019PolyCheck\obj\Debug\net6.0\Example019PolyCheck.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example019PolyCheck\obj\Debug\net6.0\Example019PolyCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example019PolyCheck\obj\Debug\net6.0\Example019PolyCheck.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example019PolyCheck\obj\Debug\net6.0\Example019PolyCheck.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example019PolyCheck\obj\Debug\net6.0\Example019PolyCheck.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example019PolyCheck\obj\Debug\net6.0\Example019PolyCheck.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example019PolyCheck\obj\Debug\net6.0\refint\Example019PolyCheck.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example019PolyCheck\obj\Debug\net6.0\Example019PolyCheck.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example019PolyCheck\obj\Debug\net6.0\Example019PolyCheck.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example019PolyCheck\obj\Debug\net6.0\ref\Example019PolyCheck.dll
