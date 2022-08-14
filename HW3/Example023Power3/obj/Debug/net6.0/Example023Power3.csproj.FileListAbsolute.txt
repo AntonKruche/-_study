@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example023Power3\obj\Debug\net6.0\Example023Power3.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example023Power3\obj\Debug\net6.0\Example023Power3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example023Power3\obj\Debug\net6.0\Example023Power3.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example023Power3\obj\Debug\net6.0\Example023Power3.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example023Power3\obj\Debug\net6.0\Example023Power3.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example023Power3\bin\Debug\net6.0\Example023Power3.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example023Power3\bin\Debug\net6.0\Example023Power3.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example023Power3\bin\Debug\net6.0\Example023Power3.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example023Power3\bin\Debug\net6.0\Example023Power3.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example023Power3\bin\Debug\net6.0\Example023Power3.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example023Power3\obj\Debug\net6.0\Example023Power3.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example023Power3\obj\Debug\net6.0\refint\Example023Power3.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example023Power3\obj\Debug\net6.0\Example023Power3.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example023Power3\obj\Debug\net6.0\Example023Power3.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW3\Example023Power3\obj\Debug\net6.0\ref\Example023Power3.dll
