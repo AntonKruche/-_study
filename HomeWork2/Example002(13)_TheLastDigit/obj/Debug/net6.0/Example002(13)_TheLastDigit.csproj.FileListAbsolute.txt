@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example002(13)_TheLastDigit\obj\Debug\net6.0\Example002(13)_TheLastDigit.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example002(13)_TheLastDigit\obj\Debug\net6.0\Example002(13)_TheLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example002(13)_TheLastDigit\obj\Debug\net6.0\Example002(13)_TheLastDigit.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example002(13)_TheLastDigit\obj\Debug\net6.0\Example002(13)_TheLastDigit.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example002(13)_TheLastDigit\obj\Debug\net6.0\Example002(13)_TheLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example002(13)_TheLastDigit\bin\Debug\net6.0\Example002(13)_TheLastDigit.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example002(13)_TheLastDigit\bin\Debug\net6.0\Example002(13)_TheLastDigit.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example002(13)_TheLastDigit\bin\Debug\net6.0\Example002(13)_TheLastDigit.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example002(13)_TheLastDigit\bin\Debug\net6.0\Example002(13)_TheLastDigit.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example002(13)_TheLastDigit\bin\Debug\net6.0\Example002(13)_TheLastDigit.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example002(13)_TheLastDigit\obj\Debug\net6.0\Example002(13)_TheLastDigit.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example002(13)_TheLastDigit\obj\Debug\net6.0\refint\Example002(13)_TheLastDigit.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example002(13)_TheLastDigit\obj\Debug\net6.0\Example002(13)_TheLastDigit.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example002(13)_TheLastDigit\obj\Debug\net6.0\Example002(13)_TheLastDigit.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example002(13)_TheLastDigit\obj\Debug\net6.0\ref\Example002(13)_TheLastDigit.dll

@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example001(10)_TheSecondDigit\bin\Debug\net6.0\Example001(10)_TheSecondDigit.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example001(10)_TheSecondDigit\bin\Debug\net6.0\Example001(10)_TheSecondDigit.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example001(10)_TheSecondDigit\bin\Debug\net6.0\Example001(10)_TheSecondDigit.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example001(10)_TheSecondDigit\bin\Debug\net6.0\Example001(10)_TheSecondDigit.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example001(10)_TheSecondDigit\bin\Debug\net6.0\Example001(10)_TheSecondDigit.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example001(10)_TheSecondDigit\obj\Debug\net6.0\Example001(10)_TheSecondDigit.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example001(10)_TheSecondDigit\obj\Debug\net6.0\Example001(10)_TheSecondDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example001(10)_TheSecondDigit\obj\Debug\net6.0\Example001(10)_TheSecondDigit.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example001(10)_TheSecondDigit\obj\Debug\net6.0\Example001(10)_TheSecondDigit.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example001(10)_TheSecondDigit\obj\Debug\net6.0\Example001(10)_TheSecondDigit.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example001(10)_TheSecondDigit\obj\Debug\net6.0\Example001(10)_TheSecondDigit.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example001(10)_TheSecondDigit\obj\Debug\net6.0\refint\Example001(10)_TheSecondDigit.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example001(10)_TheSecondDigit\obj\Debug\net6.0\Example001(10)_TheSecondDigit.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example001(10)_TheSecondDigit\obj\Debug\net6.0\Example001(10)_TheSecondDigit.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HomeWork2\Example001(10)_TheSecondDigit\obj\Debug\net6.0\ref\Example001(10)_TheSecondDigit.dll
