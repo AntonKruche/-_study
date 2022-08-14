@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example014CalculateRange\obj\Debug\net6.0\Example014CalculateRange.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example014CalculateRange\obj\Debug\net6.0\Example014CalculateRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example014CalculateRange\obj\Debug\net6.0\Example014CalculateRange.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example014CalculateRange\obj\Debug\net6.0\Example014CalculateRange.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example014CalculateRange\obj\Debug\net6.0\Example014CalculateRange.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example014CalculateRange\bin\Debug\net6.0\Example014CalculateRange.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example014CalculateRange\bin\Debug\net6.0\Example014CalculateRange.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example014CalculateRange\bin\Debug\net6.0\Example014CalculateRange.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example014CalculateRange\bin\Debug\net6.0\Example014CalculateRange.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example014CalculateRange\bin\Debug\net6.0\Example014CalculateRange.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example014CalculateRange\obj\Debug\net6.0\Example014CalculateRange.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example014CalculateRange\obj\Debug\net6.0\refint\Example014CalculateRange.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example014CalculateRange\obj\Debug\net6.0\Example014CalculateRange.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example014CalculateRange\obj\Debug\net6.0\Example014CalculateRange.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Example014CalculateRange\obj\Debug\net6.0\ref\Example014CalculateRange.dll
