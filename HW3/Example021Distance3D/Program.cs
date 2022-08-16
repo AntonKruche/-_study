@@ -10,5 +10,5 @@ Console.Write("Введите координату Y второй точки: ")
 int Ycoord2 = int.Parse(Console.ReadLine());
 Console.Write("Введите координату Z второй точки: ");
 int Zcoord2 = int.Parse(Console.ReadLine());
-double distance = Math.Sqrt(Math.Pow(Xcoord1-Xcoord2, 2) + Math.Pow(Ycoord1-Ycoord2,2) + Math.Pow(Zcoord1 - Zcoord2,2));
+double distance = Math.Sqrt(Math.Pow(Xcoord1-Xcoord2, 2) + Math.Pow(Ycoord1-Ycoord2, 2) + Math.Pow(Zcoord1 - Zcoord2, 2));
 Console.Write(distance);
