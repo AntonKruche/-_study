@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar5\Example05\bin\Debug\net6.0\Example05.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar5\Example05\bin\Debug\net6.0\Example05.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar5\Example05\bin\Debug\net6.0\Example05.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar5\Example05\bin\Debug\net6.0\Example05.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar5\Example05\bin\Debug\net6.0\Example05.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar5\Example05\obj\Debug\net6.0\Example05.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar5\Example05\obj\Debug\net6.0\Example05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar5\Example05\obj\Debug\net6.0\Example05.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar5\Example05\obj\Debug\net6.0\Example05.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar5\Example05\obj\Debug\net6.0\Example05.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar5\Example05\obj\Debug\net6.0\Example05.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar5\Example05\obj\Debug\net6.0\refint\Example05.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar5\Example05\obj\Debug\net6.0\Example05.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar5\Example05\obj\Debug\net6.0\Example05.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar5\Example05\obj\Debug\net6.0\ref\Example05.dll
