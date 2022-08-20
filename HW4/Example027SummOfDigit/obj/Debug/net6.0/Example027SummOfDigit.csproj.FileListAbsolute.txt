@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example027SummOfDigit\bin\Debug\net6.0\Example027SummOfDigit.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example027SummOfDigit\bin\Debug\net6.0\Example027SummOfDigit.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example027SummOfDigit\bin\Debug\net6.0\Example027SummOfDigit.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example027SummOfDigit\bin\Debug\net6.0\Example027SummOfDigit.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example027SummOfDigit\bin\Debug\net6.0\Example027SummOfDigit.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example027SummOfDigit\obj\Debug\net6.0\Example027SummOfDigit.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example027SummOfDigit\obj\Debug\net6.0\Example027SummOfDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example027SummOfDigit\obj\Debug\net6.0\Example027SummOfDigit.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example027SummOfDigit\obj\Debug\net6.0\Example027SummOfDigit.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example027SummOfDigit\obj\Debug\net6.0\Example027SummOfDigit.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example027SummOfDigit\obj\Debug\net6.0\Example027SummOfDigit.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example027SummOfDigit\obj\Debug\net6.0\refint\Example027SummOfDigit.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example027SummOfDigit\obj\Debug\net6.0\Example027SummOfDigit.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example027SummOfDigit\obj\Debug\net6.0\Example027SummOfDigit.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example027SummOfDigit\obj\Debug\net6.0\ref\Example027SummOfDigit.dll

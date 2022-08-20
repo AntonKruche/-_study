@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example029ArrayExist\obj\Debug\net6.0\Example029ArrayExist.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example029ArrayExist\obj\Debug\net6.0\Example029ArrayExist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example029ArrayExist\obj\Debug\net6.0\Example029ArrayExist.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example029ArrayExist\obj\Debug\net6.0\Example029ArrayExist.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example029ArrayExist\obj\Debug\net6.0\Example029ArrayExist.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example029ArrayExist\bin\Debug\net6.0\Example029ArrayExist.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example029ArrayExist\bin\Debug\net6.0\Example029ArrayExist.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example029ArrayExist\bin\Debug\net6.0\Example029ArrayExist.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example029ArrayExist\bin\Debug\net6.0\Example029ArrayExist.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example029ArrayExist\bin\Debug\net6.0\Example029ArrayExist.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example029ArrayExist\obj\Debug\net6.0\Example029ArrayExist.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example029ArrayExist\obj\Debug\net6.0\refint\Example029ArrayExist.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example029ArrayExist\obj\Debug\net6.0\Example029ArrayExist.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example029ArrayExist\obj\Debug\net6.0\Example029ArrayExist.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW4\Example029ArrayExist\obj\Debug\net6.0\ref\Example029ArrayExist.dll
