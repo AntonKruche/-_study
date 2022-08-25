@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\ExampleAroundArray\obj\Debug\net6.0\ExampleAroundArray.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\ExampleAroundArray\obj\Debug\net6.0\ExampleAroundArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\ExampleAroundArray\obj\Debug\net6.0\ExampleAroundArray.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\ExampleAroundArray\obj\Debug\net6.0\ExampleAroundArray.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\ExampleAroundArray\obj\Debug\net6.0\ExampleAroundArray.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\ExampleAroundArray\bin\Debug\net6.0\ExampleAroundArray.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\ExampleAroundArray\bin\Debug\net6.0\ExampleAroundArray.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\ExampleAroundArray\bin\Debug\net6.0\ExampleAroundArray.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\ExampleAroundArray\bin\Debug\net6.0\ExampleAroundArray.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\ExampleAroundArray\bin\Debug\net6.0\ExampleAroundArray.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\ExampleAroundArray\obj\Debug\net6.0\ExampleAroundArray.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\ExampleAroundArray\obj\Debug\net6.0\refint\ExampleAroundArray.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\ExampleAroundArray\obj\Debug\net6.0\ExampleAroundArray.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\ExampleAroundArray\obj\Debug\net6.0\ExampleAroundArray.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\ExampleAroundArray\obj\Debug\net6.0\ref\ExampleAroundArray.dll

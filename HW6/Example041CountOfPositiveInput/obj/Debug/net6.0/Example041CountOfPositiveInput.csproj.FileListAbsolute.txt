@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example041CountOfPositiveInput\bin\Debug\net6.0\Example041CountOfPositiveInput.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example041CountOfPositiveInput\bin\Debug\net6.0\Example041CountOfPositiveInput.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example041CountOfPositiveInput\bin\Debug\net6.0\Example041CountOfPositiveInput.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example041CountOfPositiveInput\bin\Debug\net6.0\Example041CountOfPositiveInput.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example041CountOfPositiveInput\bin\Debug\net6.0\Example041CountOfPositiveInput.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example041CountOfPositiveInput\obj\Debug\net6.0\Example041CountOfPositiveInput.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example041CountOfPositiveInput\obj\Debug\net6.0\Example041CountOfPositiveInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example041CountOfPositiveInput\obj\Debug\net6.0\Example041CountOfPositiveInput.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example041CountOfPositiveInput\obj\Debug\net6.0\Example041CountOfPositiveInput.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example041CountOfPositiveInput\obj\Debug\net6.0\Example041CountOfPositiveInput.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example041CountOfPositiveInput\obj\Debug\net6.0\Example041CountOfPositiveInput.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example041CountOfPositiveInput\obj\Debug\net6.0\refint\Example041CountOfPositiveInput.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example041CountOfPositiveInput\obj\Debug\net6.0\Example041CountOfPositiveInput.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example041CountOfPositiveInput\obj\Debug\net6.0\Example041CountOfPositiveInput.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example041CountOfPositiveInput\obj\Debug\net6.0\ref\Example041CountOfPositiveInput.dll
