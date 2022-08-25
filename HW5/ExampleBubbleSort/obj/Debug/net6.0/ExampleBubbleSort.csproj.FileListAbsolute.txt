@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW5\ExampleBubbleSort\obj\Debug\net6.0\ExampleBubbleSort.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW5\ExampleBubbleSort\obj\Debug\net6.0\ExampleBubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW5\ExampleBubbleSort\obj\Debug\net6.0\ExampleBubbleSort.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW5\ExampleBubbleSort\obj\Debug\net6.0\ExampleBubbleSort.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW5\ExampleBubbleSort\obj\Debug\net6.0\ExampleBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW5\ExampleBubbleSort\bin\Debug\net6.0\ExampleBubbleSort.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW5\ExampleBubbleSort\bin\Debug\net6.0\ExampleBubbleSort.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW5\ExampleBubbleSort\bin\Debug\net6.0\ExampleBubbleSort.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW5\ExampleBubbleSort\bin\Debug\net6.0\ExampleBubbleSort.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW5\ExampleBubbleSort\bin\Debug\net6.0\ExampleBubbleSort.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW5\ExampleBubbleSort\obj\Debug\net6.0\ExampleBubbleSort.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW5\ExampleBubbleSort\obj\Debug\net6.0\refint\ExampleBubbleSort.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW5\ExampleBubbleSort\obj\Debug\net6.0\ExampleBubbleSort.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW5\ExampleBubbleSort\obj\Debug\net6.0\ExampleBubbleSort.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW5\ExampleBubbleSort\obj\Debug\net6.0\ref\ExampleBubbleSort.dll
