@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example043FindCrossPoint\bin\Debug\net6.0\Example043FindCrossPoint.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example043FindCrossPoint\bin\Debug\net6.0\Example043FindCrossPoint.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example043FindCrossPoint\bin\Debug\net6.0\Example043FindCrossPoint.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example043FindCrossPoint\bin\Debug\net6.0\Example043FindCrossPoint.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example043FindCrossPoint\bin\Debug\net6.0\Example043FindCrossPoint.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example043FindCrossPoint\obj\Debug\net6.0\Example043FindCrossPoint.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example043FindCrossPoint\obj\Debug\net6.0\Example043FindCrossPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example043FindCrossPoint\obj\Debug\net6.0\Example043FindCrossPoint.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example043FindCrossPoint\obj\Debug\net6.0\Example043FindCrossPoint.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example043FindCrossPoint\obj\Debug\net6.0\Example043FindCrossPoint.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example043FindCrossPoint\obj\Debug\net6.0\Example043FindCrossPoint.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example043FindCrossPoint\obj\Debug\net6.0\refint\Example043FindCrossPoint.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example043FindCrossPoint\obj\Debug\net6.0\Example043FindCrossPoint.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example043FindCrossPoint\obj\Debug\net6.0\Example043FindCrossPoint.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW6\Example043FindCrossPoint\obj\Debug\net6.0\ref\Example043FindCrossPoint.dll
