@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example049ChangeArrayValue\obj\Debug\net6.0\Example049ChangeArrayValue.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example049ChangeArrayValue\obj\Debug\net6.0\Example049ChangeArrayValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example049ChangeArrayValue\obj\Debug\net6.0\Example049ChangeArrayValue.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example049ChangeArrayValue\obj\Debug\net6.0\Example049ChangeArrayValue.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example049ChangeArrayValue\obj\Debug\net6.0\Example049ChangeArrayValue.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example049ChangeArrayValue\bin\Debug\net6.0\Example049ChangeArrayValue.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example049ChangeArrayValue\bin\Debug\net6.0\Example049ChangeArrayValue.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example049ChangeArrayValue\bin\Debug\net6.0\Example049ChangeArrayValue.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example049ChangeArrayValue\bin\Debug\net6.0\Example049ChangeArrayValue.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example049ChangeArrayValue\bin\Debug\net6.0\Example049ChangeArrayValue.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example049ChangeArrayValue\obj\Debug\net6.0\Example049ChangeArrayValue.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example049ChangeArrayValue\obj\Debug\net6.0\refint\Example049ChangeArrayValue.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example049ChangeArrayValue\obj\Debug\net6.0\Example049ChangeArrayValue.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example049ChangeArrayValue\obj\Debug\net6.0\Example049ChangeArrayValue.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example049ChangeArrayValue\obj\Debug\net6.0\ref\Example049ChangeArrayValue.dll

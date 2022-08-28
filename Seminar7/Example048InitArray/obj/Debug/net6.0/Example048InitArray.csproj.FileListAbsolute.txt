@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example048InitArray\bin\Debug\net6.0\Example048InitArray.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example048InitArray\bin\Debug\net6.0\Example048InitArray.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example048InitArray\bin\Debug\net6.0\Example048InitArray.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example048InitArray\bin\Debug\net6.0\Example048InitArray.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example048InitArray\bin\Debug\net6.0\Example048InitArray.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example048InitArray\obj\Debug\net6.0\Example048InitArray.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example048InitArray\obj\Debug\net6.0\Example048InitArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example048InitArray\obj\Debug\net6.0\Example048InitArray.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example048InitArray\obj\Debug\net6.0\Example048InitArray.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example048InitArray\obj\Debug\net6.0\Example048InitArray.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example048InitArray\obj\Debug\net6.0\Example048InitArray.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example048InitArray\obj\Debug\net6.0\refint\Example048InitArray.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example048InitArray\obj\Debug\net6.0\Example048InitArray.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example048InitArray\obj\Debug\net6.0\Example048InitArray.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\Seminar7\Example048InitArray\obj\Debug\net6.0\ref\Example048InitArray.dll
