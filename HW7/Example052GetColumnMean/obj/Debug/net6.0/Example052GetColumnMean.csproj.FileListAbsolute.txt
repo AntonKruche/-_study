@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example052GetColumnMean\bin\Debug\net6.0\Example052GetColumnMean.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example052GetColumnMean\bin\Debug\net6.0\Example052GetColumnMean.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example052GetColumnMean\bin\Debug\net6.0\Example052GetColumnMean.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example052GetColumnMean\bin\Debug\net6.0\Example052GetColumnMean.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example052GetColumnMean\bin\Debug\net6.0\Example052GetColumnMean.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example052GetColumnMean\obj\Debug\net6.0\Example052GetColumnMean.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example052GetColumnMean\obj\Debug\net6.0\Example052GetColumnMean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example052GetColumnMean\obj\Debug\net6.0\Example052GetColumnMean.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example052GetColumnMean\obj\Debug\net6.0\Example052GetColumnMean.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example052GetColumnMean\obj\Debug\net6.0\Example052GetColumnMean.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example052GetColumnMean\obj\Debug\net6.0\Example052GetColumnMean.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example052GetColumnMean\obj\Debug\net6.0\refint\Example052GetColumnMean.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example052GetColumnMean\obj\Debug\net6.0\Example052GetColumnMean.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example052GetColumnMean\obj\Debug\net6.0\Example052GetColumnMean.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example052GetColumnMean\obj\Debug\net6.0\ref\Example052GetColumnMean.dll

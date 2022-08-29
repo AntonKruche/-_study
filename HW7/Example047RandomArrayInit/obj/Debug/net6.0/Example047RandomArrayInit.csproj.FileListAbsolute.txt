@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example047RandomArrayInit\obj\Debug\net6.0\Example047RandomArrayInit.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example047RandomArrayInit\obj\Debug\net6.0\Example047RandomArrayInit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example047RandomArrayInit\obj\Debug\net6.0\Example047RandomArrayInit.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example047RandomArrayInit\obj\Debug\net6.0\Example047RandomArrayInit.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example047RandomArrayInit\obj\Debug\net6.0\Example047RandomArrayInit.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example047RandomArrayInit\bin\Debug\net6.0\Example047RandomArrayInit.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example047RandomArrayInit\bin\Debug\net6.0\Example047RandomArrayInit.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example047RandomArrayInit\bin\Debug\net6.0\Example047RandomArrayInit.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example047RandomArrayInit\bin\Debug\net6.0\Example047RandomArrayInit.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example047RandomArrayInit\bin\Debug\net6.0\Example047RandomArrayInit.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example047RandomArrayInit\obj\Debug\net6.0\Example047RandomArrayInit.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example047RandomArrayInit\obj\Debug\net6.0\refint\Example047RandomArrayInit.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example047RandomArrayInit\obj\Debug\net6.0\Example047RandomArrayInit.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example047RandomArrayInit\obj\Debug\net6.0\Example047RandomArrayInit.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example047RandomArrayInit\obj\Debug\net6.0\ref\Example047RandomArrayInit.dll
