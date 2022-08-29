@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example050GetNumber\bin\Debug\net6.0\Example050GetNumber.exe
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example050GetNumber\bin\Debug\net6.0\Example050GetNumber.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example050GetNumber\bin\Debug\net6.0\Example050GetNumber.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example050GetNumber\bin\Debug\net6.0\Example050GetNumber.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example050GetNumber\bin\Debug\net6.0\Example050GetNumber.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example050GetNumber\obj\Debug\net6.0\Example050GetNumber.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example050GetNumber\obj\Debug\net6.0\Example050GetNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example050GetNumber\obj\Debug\net6.0\Example050GetNumber.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example050GetNumber\obj\Debug\net6.0\Example050GetNumber.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example050GetNumber\obj\Debug\net6.0\Example050GetNumber.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example050GetNumber\obj\Debug\net6.0\Example050GetNumber.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example050GetNumber\obj\Debug\net6.0\refint\Example050GetNumber.dll
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example050GetNumber\obj\Debug\net6.0\Example050GetNumber.pdb
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example050GetNumber\obj\Debug\net6.0\Example050GetNumber.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\C#\HW7\Example050GetNumber\obj\Debug\net6.0\ref\Example050GetNumber.dll
